@@ -130,14 +130,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Tinbatti More Near Bank Of India P.O. Siliguri More Bazar"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = ""
+email = "sushil.kisu@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "7063647608"
 top_header = true
 [params.cookies]
 enable = true
@@ -195,5 +195,5 @@ link = "#"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
+link = "https://www.linkedin.com/company/shiv-learning-center"
+title = "LinkedIn"
